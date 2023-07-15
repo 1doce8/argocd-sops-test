@@ -1,0 +1,5 @@
+creation_rules:
+  - unencrypted_regex: "^(apiVersion|metadata|kind|type)$"
+    key_groups:
+      - age:
+        - age10nvjwnwetrzd4xkv6ylks44hm6pfz6dtnsfzay5n3azmapwrz48qy48swx
